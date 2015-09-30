@@ -4,6 +4,7 @@ body {
 	font-family: "Constantia";
 	margin-left: 10%;
 	margin-right: 10%;
+	color: #028900;
 }
 
 h1 {
@@ -11,6 +12,8 @@ h1 {
 	font-family: "Libre Baskerville", serif;
 	font-size: 48px;
 	font-style: italic;
+	background-color: #028900;
+	color: #FFFFFF;
 }
 
 h2 {
